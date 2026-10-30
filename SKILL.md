@@ -5,7 +5,7 @@ metadata:
   version: "1.0.0"
 ---
 
-# Expert Web Research
+# Expert Research
 
 Produce the smallest well-supported answer that resolves the user's actual question.
 Use a loop: **scope → search → inspect → identify gaps → search again → verify → synthesize**.
