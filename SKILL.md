@@ -1,11 +1,11 @@
 ---
-name: expert-research
+name: expert-web-research
 description: "Evidence-first, adaptive web research with query decomposition, parallel search, primary-source verification, contradiction checks, and claim-level citations. Use for research, fact-checking, current information, product comparisons, technical investigations, and multi-source questions."
 metadata:
   version: "1.0.0"
 ---
 
-# Expert Research
+# Expert Web Research
 
 Produce the smallest well-supported answer that resolves the user's actual question.
 Use a loop: **scope → search → inspect → identify gaps → search again → verify → synthesize**.
