@@ -1,6 +1,6 @@
 ---
 name: expert-research
-description: "Evidence-first, adaptive web research with query decomposition, parallel search, primary-source verification, contradiction checks, and claim-level citations. Use for research, fact-checking, current information, product comparisons, technical investigations, and multi-source questions. 适用于联网调研、事实核查、最新信息、产品对比、多来源检索与证据溯源。"
+description: "Evidence-first, adaptive web research with query decomposition, parallel search, primary-source verification, contradiction checks, and claim-level citations. Use for research, fact-checking, current information, product comparisons, technical investigations, and multi-source questions."
 metadata:
   version: "1.0.0"
 ---
